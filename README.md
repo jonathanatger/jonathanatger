@@ -7,4 +7,4 @@ J'ai des années d'expérience sur la mise au point d'outils métiers et la mise
 En cours d'apprentisage de la technologie multiplateforme React Native.
 
 📫 jonathan.atger@gmail.com
-🖥️ jonathanatger.com
+🖥️ www.jonathanatger.com
