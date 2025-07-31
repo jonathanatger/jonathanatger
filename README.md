@@ -4,8 +4,6 @@ Interessé par les technologies du web et de la partie client/expérience utilis
 
 J'ai des années d'expérience sur la mise au point d'outils métiers et la mise en place de nouvelles technologies dans des cadres professionnels souvent réfractaires aux nouvelles technologies.
 
-En cours d'apprentisage de la technologie multiplateforme React Native.
-
 📫 jonathan.atger@gmail.com
 
 🖥️ www.jonathanatger.com
